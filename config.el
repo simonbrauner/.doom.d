@@ -74,3 +74,11 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+
+
+(global-set-key (kbd "s-'") (kbd "'"))
+(global-set-key (kbd "s-\"") (kbd "\""))
+(global-set-key (kbd "s-g") (kbd "g"))
+(global-set-key (kbd "s-G") (kbd "G"))
+(global-set-key (kbd "s-h") (kbd "h"))
+(global-set-key (kbd "s-H") (kbd "H"))
